@@ -19,7 +19,9 @@ $ npm start
 $ npm run generate
 ```
 
-有关事物如何工作的详细说明，请前往 [Nuxt.js](https://nuxtjs.org).
+> 有关事物如何工作的详细说明，请前往 [Nuxt.js](https://nuxtjs.org).  
+> 项目地址: [Nuxt-demo](http://101.132.178.141/).  
+> _本文档截止于 `2019-01-31`_.
 
 ---
 
