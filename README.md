@@ -886,4 +886,4 @@ _如果你的项目需要用到`动态路由`，请移步 [generate 配置 API](
 
 ---
 
-想了解更多请查看 [Nuxt.js](https://zh.nuxtjs.org/guide).
+> 想了解更多请查看 [Nuxt.js](https://zh.nuxtjs.org/guide).
