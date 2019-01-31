@@ -883,3 +883,7 @@ npm run generate
 这个命令会创建一个 `dist` 文件夹，所有静态化后的资源文件均在其中。
 
 _如果你的项目需要用到`动态路由`，请移步 [generate 配置 API](https://zh.nuxtjs.org/api/configuration-generate) 了解如何让 `Nuxt.js` 生成此类动态路由的静态文件。_
+
+---
+
+想了解更多请查看 [Nuxt.js](https://zh.nuxtjs.org/guide).
