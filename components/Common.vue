@@ -30,6 +30,18 @@
         >
           Feedback
         </nuxt-link>
+        <nuxt-link
+          class="button--grey"
+          to="/users"
+        >
+          Users
+        </nuxt-link>
+        <nuxt-link
+          class="button--grey"
+          to="/users/456"
+        >
+          UsersId
+        </nuxt-link>
       </div>
     </div>
   </section>
