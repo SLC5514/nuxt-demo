@@ -1,6 +1,6 @@
-# nuxt-demo
+# Nuxt-demo
 
-> A nuxt-demo
+> A nuxt.js demo
 
 ## Build Setup
 
