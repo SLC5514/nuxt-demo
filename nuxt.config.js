@@ -11,7 +11,11 @@ module.exports = {
     meta: [
       { 'http-equiv': 'Content-Type', content: 'text/html', charset: 'utf-8' },
       { 'http-equiv': 'X-UA-Compatible', content: 'IE=Edge' },
-      { name: 'viewport', content: 'user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1' },
+      {
+        name: 'viewport',
+        content:
+          'user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1'
+      },
       { hid: 'keywords', name: 'keywords', content: 'vue,nuxt' },
       { hid: 'description', name: 'description', content: pkg.description },
       { name: 'robots', content: 'all' },
@@ -39,9 +43,7 @@ module.exports = {
   /*
   ** Global CSS
   */
-  css: [
-    'assets/css/reset.css'
-  ],
+  css: ['assets/css/reset.css'],
 
   /*
   ** Plugins to load before mounting the App

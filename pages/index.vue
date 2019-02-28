@@ -39,6 +39,9 @@ export default {
     }
   },
   mounted() {
+    this.$axios.get('/test', function(res) {
+      console.log(res)
+    })
     console.log(this.$route)
     // 页面加载进度条
     this.$nextTick(() => {
